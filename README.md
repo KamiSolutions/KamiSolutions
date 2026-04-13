@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hey, I'm Timothy Musama 👋
 
-<!--
-**KamiSolutions/KamiSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end and mobile developer based in Johannesburg, South Africa.
+I build real products — from booking apps to business websites — using modern web and mobile tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+**Backend & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 💅 NailTry
+A React Native + Expo mobile app for booking nail appointments and browsing nail styles.
+Features auth, booking management, status tracking, and a planned AI virtual try-on.
+[View Repo →](https://github.com/KamiSolutions/Nail-app)
+
+### 🌐 Valoworx Website
+A multi-page business website built with HTML, CSS and JavaScript. Deployed on Vercel.
+[View Repo →](https://github.com/KamiSolutions/valoworx-html) · [Live Demo →](https://valoworx-html.vercel.app)
+
+### 🖥️ Admin Dashboard
+A Next.js 15 admin dashboard with TypeScript, Tailwind CSS, Shadcn UI, Auth.js and PostgreSQL.
+[View Repo →](https://github.com/KamiSolutions/admin-dashboard)
+
+---
+
+## 📈 GitHub Stats
+
+![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamiSolutions&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Open to frontend and mobile developer roles in Johannesburg (and remote)
+- 📧 Reach me via [GitHub](https://github.com/KamiSolutions)
