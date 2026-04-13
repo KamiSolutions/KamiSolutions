@@ -57,6 +57,21 @@ A multi-page business website built with HTML, CSS and JavaScript. Deployed on V
 A Next.js 15 admin dashboard with TypeScript, Tailwind CSS, Shadcn UI, Auth.js and PostgreSQL.  
 [View Repo →](https://github.com/KamiSolutions/admin-dashboard)
 
+### 🏢 Nexus Portal — Enterprise Management Platform
+A cross-platform internal management portal built for a multi-subsidiary 
+organisation. Handles financial requisitions and approvals, HR leave 
+management, vehicle fleet tracking, lease management, and policy/claims 
+— all from a single React Native codebase running on Android, iOS, and Web.
+
+**What I built:** Full UI/UX across 18 screens, complete TypeScript type 
+system with 25+ interfaces, role-based access control, and a semantic 
+design system.
+
+**Tech Stack:** TypeScript · React Native · Expo v54 · Expo Router · 
+React 19 · RBAC · Cross-Platform
+
+[View Repo →](https://github.com/KamiSolutions/nexus-portal)
+
 ---
 
 ## 📈 GitHub Stats
