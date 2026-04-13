@@ -42,9 +42,11 @@ Built with strict TypeScript discipline and 95% test coverage across the codebas
 
 ## 🚀 Personal Projects
 
-### 💅 NailTry
-A React Native + Expo mobile app for booking nail appointments and browsing nail styles.  
-Features auth, booking management, status tracking, and a planned AI virtual try-on.  
+### 💅 NailTry — Nail Booking App
+A React Native + Expo mobile app that connects clients with nail technicians 
+for style discovery and appointment booking. Features auth, booking management, 
+status tracking, skeleton loaders, and a Django REST API backend.  
+Built with strict TypeScript, Context API, and production-grade error handling.  
 [View Repo →](https://github.com/KamiSolutions/Nail-app)
 
 ### 🌐 Valoworx Website
