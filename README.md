@@ -27,7 +27,20 @@ I build real products — from booking apps to business websites — using moder
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Work
+
+### 🚗 MotorCloud Business — Mkhwany Holdings
+A mobile-first vehicle management application built as part of the MotorCloud ecosystem.
+I designed and built the full React UI/UX, including the user journey, screen flows, and all core pages.
+
+**Tech Stack:** TypeScript · React Native · Context API · Shell · iOS (Swift build chain)
+Built with strict TypeScript discipline and 95% test coverage across the codebase.
+
+> *Private repository — available for review upon request*
+
+---
+
+## 🚀 Personal Projects
 
 ### 💅 NailTry
 A React Native + Expo mobile app for booking nail appointments and browsing nail styles.
