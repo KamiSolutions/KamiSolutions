@@ -49,7 +49,7 @@ status tracking, skeleton loaders, and a Django REST API backend.
 Built with strict TypeScript, Context API, and production-grade error handling.  
 [View Repo →](https://github.com/KamiSolutions/Nail-app)
 
-### 🌐 Valoworx Website
+### 🌐 CleanX Website
 A multi-page business website built with HTML, CSS and JavaScript. Deployed on Vercel.  
 [View Repo →](https://github.com/KamiSolutions/valoworx-html) · [Live Demo →](https://valoworx-html.vercel.app)
 
