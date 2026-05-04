@@ -1,7 +1,8 @@
 # Hey, I'm Timothy Musama 👋
-
-I'm a front-end and mobile developer based in Johannesburg, South Africa.  
-I build real products — from booking apps to business websites — using modern web and mobile tools.
+I'm a full-stack and mobile developer based in Johannesburg, South Africa.  
+I build real products end-to-end — from AI-powered backend systems and cloud 
+infrastructure to polished mobile interfaces — using modern web, mobile, and 
+cloud tools.
 
 ---
 
@@ -21,13 +22,39 @@ I build real products — from booking apps to business websites — using moder
 
 **Backend & Tools**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+**Cloud & AI**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ---
 
 ## 💼 Professional Work
+
+### 🤖 AI Booking & Automation Platform*
+An enterprise-grade AI-assisted booking and workflow automation system built for a 
+production business operating across multiple South African cities.
+
+The platform ingests unstructured client communications, uses LLM-powered agents to 
+extract structured data, integrates with third-party inventory and quoting systems, 
+and presents AI-drafted outputs to human operators for review and approval — all 
+within a secure, auditable workflow.
+
+**What I'm building:** Full-stack architecture spanning a Django REST backend, React 
+Native mobile frontend, AWS infrastructure (SES · RDS · ECS · S3), and a multi-agent 
+AI pipeline with a human-in-the-loop approval layer.
+
+**Tech Stack:** Python · Django REST Framework · React Native · TypeScript · PostgreSQL · 
+AWS · Docker · Celery · Redis · Claude AI · CI/CD via GitHub Actions · Terraform
+
+> 🔒 *Details available in person for verified opportunities*
+
+---
 
 ### 🚗 MotorCloud Business — Mkhwany Holdings
 A mobile-first vehicle management application built as part of the MotorCloud ecosystem.  
@@ -68,20 +95,17 @@ system with 25+ interfaces, role-based access control, and a semantic
 design system.
 
 **Tech Stack:** TypeScript · React Native · Expo v54 · Expo Router · 
-React 19 · RBAC · Cross-Platform
-
+React 19 · RBAC · Cross-Platform  
 [View Repo →](https://github.com/KamiSolutions/nexus-portal)
 
 ---
 
 ## 📈 GitHub Stats
-
 ![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamiSolutions&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
 ## 📫 Let's Connect
-
 💼 Open to frontend and mobile developer roles in Johannesburg (and remote)  
 📧 [musmatimothy@gmail.com](mailto:musmatimothy@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/timothy-musama-b164a7367/)
