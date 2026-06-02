@@ -106,6 +106,6 @@ React 19 · RBAC · Cross-Platform
 ---
 
 ## 📫 Let's Connect
-💼 Open to frontend and mobile developer roles in Johannesburg (and remote)  
+💼 Open to frontend, backend and mobile developer roles in Johannesburg (and remote)  
 📧 [musmatimothy@gmail.com](mailto:musmatimothy@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/timothy-musama-b164a7367/)
