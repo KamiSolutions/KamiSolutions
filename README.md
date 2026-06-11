@@ -100,11 +100,6 @@ React 19 · RBAC · Cross-Platform
 
 ---
 
-## 📈 GitHub Stats
-![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamiSolutions&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 ## 📫 Let's Connect
 💼 Open to frontend, backend and mobile developer roles in Johannesburg (and remote)  
 📧 [musmatimothy@gmail.com](mailto:musmatimothy@gmail.com)  
